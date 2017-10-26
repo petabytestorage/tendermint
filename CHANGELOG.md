@@ -16,6 +16,7 @@ FEATURES:
 - State syncing (without transaction replay)
 - Improved support for querying history and state
 - Add authentication and rate-limitting to the RPC
+- new unsubscribe_all WebSocket RPC endpoint
 
 IMPROVEMENTS:
 - Improve subtleties around mempool caching and logic
